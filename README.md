@@ -1,2 +1,2 @@
-# portfolio
-Site dedicado ao primeiro portfólio de um iniciante em desenvolvimento
+# curriculo
+Primeira página estilizada realizada por um iniciante em desenvolvimento
