@@ -1,0 +1,51 @@
+{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {margin: -6px;
+    font-family: monospace;}
+
+h1 {font-size: 50px;
+    text-align: right;
+    }
+h2 {font-size: 30px;
+    text-align: left;
+    }
+.cabeçalho {padding: 10px;
+            background-color: #4A8DAC;
+            display: flex;}
+.pessoal {margin-left:10px;
+        margin-top: 20px;}
+
+.titulo1 {margin-left:200px;
+        margin-top: 160px;
+        text-align: center;}
+
+.espaço1 {padding: 10px;
+        background-color: #99CED4;}
+
+.educação {padding: 150px;
+            background-color:lightblue;
+            text-align: left;
+            font-family: monospace;
+            font-size: 20px;
+            }
+
+.espaço2 {padding: 10px;
+        background-color: #99CED4;}
+
+.profissão {padding:300px;
+            background-color: #4A8DAC}
+
+.espaço3 {padding: 10px;
+        background-color: #99CED4;
+        margin: 0px 0px 0px 0px;}
+
+.voluntario {padding: 300px;
+            background-color: lightblue}
+.espaço4 {padding: 10px;
+            background-color:#99CED4;}
+.cursos {padding: 300px;
+        background-color:#4A8DAC }
