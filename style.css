@@ -10,12 +10,18 @@ body {margin: -6px;
 h1 {font-size: 50px;
     text-align: right;
     }
-h2 {font-size: 30px;
+h2 {font-size: 40px;
     text-align: left;
+    margin-top: -100px;
     }
+h3 {font-size: 30px;
+    text-align: center;
+    }
+
 .cabeçalho {padding: 10px;
             background-color: #4A8DAC;
             display: flex;}
+
 .pessoal {margin-left:10px;
         margin-top: 20px;}
 
@@ -32,12 +38,44 @@ h2 {font-size: 30px;
             font-family: monospace;
             font-size: 20px;
             }
+.ufpa {display: flex;
+       margin-top: 70px;}
+
+.universidade {border-radius: 50%;}
+.descrição1 {margin: 20px;}
 
 .espaço2 {padding: 10px;
         background-color: #99CED4;}
 
 .profissão {padding:300px;
-            background-color: #4A8DAC}
+            background-color: #4A8DAC;
+            height: 150px;}
+
+.titulo2 {text-align: left;
+          margin-top:-250px;
+          margin-left: -150px;}
+
+.emprego1 {margin-top:150px;
+           margin-left: -200px;
+           margin-right: 600px;
+           text-align: justify;
+           display:block}
+
+.descrição2 {font-size: 15px;
+            text-align:center;}
+
+
+.AG {margin-left: 210px;}
+
+.emprego2 {margin-top:-390px;
+           margin-left: 500px;
+           margin-right: -200px; 
+           text-align: center;
+           display:block}
+
+.ezpeed {margin-left:0px}
+
+.descrição3 {font-size: 15px;}
 
 .espaço3 {padding: 10px;
         background-color: #99CED4;
